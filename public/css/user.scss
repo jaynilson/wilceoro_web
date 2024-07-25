@@ -1,0 +1,14 @@
+.iti--allow-dropdown{
+    display: block !important;
+}
+.form-group {
+    margin-bottom: 15px!important;
+    input[type="file"].form-control{
+        border: none;
+    }
+}
+#part-password.col-12, #part-password-edit.col-12{
+    display: flex;
+    padding-left: 0px;
+    padding-right: 0px;
+}
